@@ -1,3 +1,5 @@
+Pro českou verzi klikněte [zde](./README.cs.md)
+
 # Capri Connector Java Example
 
 This project is a Java Maven example of a simple client implementation for Capri web services (SOAP).
